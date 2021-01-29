@@ -1,0 +1,9 @@
+[submodule "northwindmvc"]
+	path = NorthwindMvc
+	url = git@github.com:kerwei/northwindmvc.git
+[submodule "northwindcontextlib"]
+	path = NorthwindContextLib
+	url = git@github.com:kerwei/northwindcontextlib.git
+[submodule "northwindentitieslib"]
+	path = NorthwindEntitiesLib
+	url = git@github.com:kerwei/northwindentitieslib.git
